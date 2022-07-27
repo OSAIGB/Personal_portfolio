@@ -5,7 +5,13 @@ box-sizing: border-box;
     margin: 0;
     background-color: rgb(241, 247, 244);
 }
+.aboutme{
+  font-size: 20px;
+}
+button{border: none;
+  border-radius: 20px;
 
+}
 .nav{
     top: 0;
     left: 0;
